@@ -99,6 +99,11 @@ cleaner/
 │   └── Report.kt
 └── main.kt
 ```
+---
+
+## 🎥 Demo
+
+👉 [Click to watch the demo](https://github.com/user-attachments/assets/37ae9249-a331-4232-91bc-a198e4c74bde)
 
 ---
 
